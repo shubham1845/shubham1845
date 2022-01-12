@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubham1845
-- 👀 I’m interested in learning new things as well as cooding
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently busy at BCA program by TU
 - 📫 How to reach me ? Email:shubhamshing009@gmail.com
 

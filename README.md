@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @shubham1845
+- Frontend Developer | React-JS
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently busy at BCA program by TU
 - 📫 How to reach me ? Email:shubhamshing009@gmail.com

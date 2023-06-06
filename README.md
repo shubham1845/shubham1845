@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubham1845
+- 👋 Hi, I’m @Shubham Singh
 - Frontend Developer | React-JS
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently busy at BCA program by TU

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubham Singh
 - Frontend Developer | React-JS
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently busy at BCA program by TU
+- 🌱 I have complected BCA program by TU
 - 📫 How to reach me ? Email:shubhamshing009@gmail.com
 
 <!---

@@ -2,6 +2,7 @@
 - Frontend Developer | React-JS
 - 👀 I’m interested in learning new things
 - 🌱 I have complected BCA program by TU
+- currently involved in Full Stack Bootcamp by Zuitt.co
 - 📫 How to reach me ? Email:shubhamshing009@gmail.com
 
 <!---
